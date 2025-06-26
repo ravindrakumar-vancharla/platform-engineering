@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: raman-micro
+  name: ravi-micro
   description: A Flask microservice with CI/CD and observability
   annotations:
     github.com/project-slug: ravindrakumar-vancharla/platform-engineering
